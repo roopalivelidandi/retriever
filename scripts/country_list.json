@@ -1,0 +1,12 @@
+{
+  "name": "country_list",
+  "title" : "Country List Dataset",
+  "description" : "List of countries with ISO codes",
+  "resources" : [
+    {
+      "name" : "country_data",
+      "url" : "https://raw.githubusercontent.com/datasets/country-list/refs/heads/main/data.csv",
+      "format" : "csv"
+    }
+  ]
+}
